@@ -40,7 +40,7 @@ int main() {
 
     tab[7][7] = 2;
 
-    //CONE simbolizado pelo 1
+    //CONE sibolizado pelo 1
     // Saindo de (5,2)
     tab[5][2] = 1;
 
